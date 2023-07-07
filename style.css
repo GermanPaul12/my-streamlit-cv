@@ -74,19 +74,19 @@
 
 
 .little-card:nth-child(1) {
-    background-image: url("https://raw.githubusercontent.com/GermanPaul12/my-streamlit-cv/master/images/small1.jpg");
+    background-image: url("https://raw.githubusercontent.com/GermanPaul12/my-streamlit-cv/master/images/small1.jpeg");
 }
 
 .little-card:nth-child(3) {
-    background-image: url("https://raw.githubusercontent.com/GermanPaul12/my-streamlit-cv/master/images/small2.jpg");
+    background-image: url("https://raw.githubusercontent.com/GermanPaul12/my-streamlit-cv/master/images/small2.jpeg");
 }
 
 .little-card:nth-child(5) {
-    background-image: url("https://raw.githubusercontent.com/GermanPaul12/my-streamlit-cv/master/images/small3.jpg");
+    background-image: url("https://raw.githubusercontent.com/GermanPaul12/my-streamlit-cv/master/images/small3.jpeg");
 }
 
 .little-card:nth-child(7) {
-    background-image: url("https://raw.githubusercontent.com/GermanPaul12/my-streamlit-cv/master/images/small4.jpg");
+    background-image: url("https://raw.githubusercontent.com/GermanPaul12/my-streamlit-cv/master/images/small4.png");
 }
 
 .card-group:hover>.card {
