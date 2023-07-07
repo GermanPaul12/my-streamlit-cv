@@ -12,6 +12,10 @@ import streamlit.components.v1 as components
 #
 # ------------------------------------------------------------
 
+# -------------- app config ---------------
+
+st.set_page_config(page_title="German Paul CV", page_icon="📝")
+
 
 def local_css(file_name):
     with open(file_name) as f:
